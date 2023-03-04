@@ -53,10 +53,8 @@
   "c0.24-st_03": {
    "client_url": "https://fieme.net/retromcp/client_jar/c0.24-st_03.jar",
    "proxy_port": 11701,
-   "server": "c1.8.2",
    "client_timestamp": "1970-01-01T00:00:00Z",
-   "resources": "c0.24-st_03.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/classic/c1.8.2.zip"
+   "resources": "c0.24-st_03.zip"
   },
   "c0.0.23a_01": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/c0.0.23a_01.jar",
